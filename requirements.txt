@@ -1,0 +1,16 @@
+streamlit
+requests
+tqdm
+faiss-cpu
+uvicorn
+
+# LangChain stack
+langchain==0.1.17
+langchain-core==0.1.53
+langchain-community==0.0.36
+langsmith==0.1.147
+
+# Gemini + Google GenAI compatibility
+google-generativeai==0.3.2
+google-ai-generativelanguage==0.4.0
+langchain-google-genai==0.0.6
